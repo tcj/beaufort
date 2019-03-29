@@ -1,0 +1,15 @@
+{
+	"category" : "Beaufort-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"jwt",
+		"gSample" ],
+	"name" : "BfJWTTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

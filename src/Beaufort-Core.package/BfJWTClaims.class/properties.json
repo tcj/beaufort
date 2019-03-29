@@ -1,0 +1,19 @@
+{
+	"category" : "Beaufort-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"iss",
+		"scope",
+		"aud",
+		"exp",
+		"iat",
+		"sub" ],
+	"name" : "BfJWTClaims",
+	"pools" : [
+		 ],
+	"super" : "BfJWTElement",
+	"type" : "normal" }

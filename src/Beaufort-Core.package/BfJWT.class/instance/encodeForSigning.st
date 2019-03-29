@@ -1,0 +1,3 @@
+encoding
+encodeForSigning
+	^ self headerAndClaims

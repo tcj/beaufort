@@ -1,0 +1,19 @@
+{
+	"category" : "Beaufort-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"headerString",
+		"headerBytes",
+		"headerEncoded",
+		"claimString",
+		"claimBytes",
+		"claimEncoded" ],
+	"name" : "BfJWTRFCTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

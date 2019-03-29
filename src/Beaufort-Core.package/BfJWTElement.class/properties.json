@@ -1,0 +1,14 @@
+{
+	"category" : "Beaufort-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BfJWTElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

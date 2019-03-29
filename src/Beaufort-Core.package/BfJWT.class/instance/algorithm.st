@@ -1,0 +1,3 @@
+header
+algorithm
+	self subclassResponsibility

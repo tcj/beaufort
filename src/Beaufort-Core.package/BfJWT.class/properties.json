@@ -1,0 +1,16 @@
+{
+	"category" : "Beaufort-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 3/14/2019 12:47",
+	"instvars" : [
+		"claims",
+		"header",
+		"secret" ],
+	"name" : "BfJWT",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
